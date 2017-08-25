@@ -1,2 +1,2 @@
 # SeniorProject
-Senior Project for Fall 2017 with Jessica Anderson
+## Authors: Jessica Anderson & Arthur James
